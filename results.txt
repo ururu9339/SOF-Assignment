@@ -1,0 +1,300 @@
+S1001 Ali Hassan
+Full Time
+Mathematics
+78
+85
+80
+S1002 Siti Aminah
+Part Time
+English
+72
+79
+75
+S1003 John Lee
+Full Time
+Science
+88
+91
+86
+S1004 Nurul Izzah
+Part Time
+History
+69
+74
+70
+S1005 David Tan
+Full Time
+Computer Science
+92
+95
+93
+S1006 Ahmad Firdaus
+Full Time
+Biology
+45
+52
+48
+S1007 Mei Ling
+Part Time
+Chemistry
+81
+84
+79
+S1008 Raj Kumar
+Full Time
+Physics
+39
+44
+50
+S1009 Sarah Lim
+Part Time
+Geography
+67
+70
+65
+S1010 Hafiz Rahman
+Full Time
+Mathematics
+56
+61
+58
+S1011 Aisyah Karim
+Part Time
+English
+48
+55
+52
+S1012 Daniel Wong
+Full Time
+Science
+85
+88
+84
+S1013 Farah Nabila
+Full Time
+History
+73
+77
+75
+S1014 Jason Ong
+Part Time
+Computer Science
+91
+94
+90
+S1015 Nur Syafiqah
+Full Time
+Biology
+62
+68
+64
+S1016 Kelvin Yap
+Part Time
+Chemistry
+47
+49
+45
+S1017 Priya Menon
+Full Time
+Physics
+76
+80
+78
+S1018 Imran Shah
+Part Time
+Geography
+58
+63
+60
+S1019 Chloe Tan
+Full Time
+Mathematics
+89
+92
+88
+S1020 Zulkifli Ahmad
+Part Time
+English
+33
+46
+40
+S1021 Brenda Lee
+Full Time
+Science
+71
+75
+73
+S1022 Syed Akmal
+Part Time
+History
+54
+59
+57
+S1023 Nicole Chia
+Full Time
+Computer Science
+95
+97
+96
+S1024 Amirul Hakim
+Full Time
+Biology
+66
+72
+68
+S1025 Tan Jia Yi
+Part Time
+Chemistry
+42
+47
+44
+S1026 Muhammad Danish
+Full Time
+Physics
+79
+83
+81
+S1027 Esther Goh
+Part Time
+Geography
+64
+69
+67
+S1028 Ravi Chandran
+Full Time
+Mathematics
+51
+57
+55
+S1029 Nabilah Sofea
+Part Time
+English
+86
+89
+85
+S1030 Adrian Teo
+Full Time
+Science
+38
+43
+41
+S1031 Haziq Iskandar
+Part Time
+History
+74
+78
+76
+S1032 Grace Ho
+Full Time
+Computer Science
+90
+93
+91
+S1033 Firdaus Zainal
+Full Time
+Biology
+57
+62
+60
+S1034 Samantha Low
+Part Time
+Chemistry
+83
+87
+84
+S1035 Viknesh Kumar
+Full Time
+Physics
+46
+51
+49
+S1036 Aina Yasmin
+Part Time
+Geography
+68
+73
+71
+S1037 Shawn Lee
+Full Time
+Mathematics
+94
+96
+95
+S1038 Nur Afiqah
+Part Time
+English
+59
+64
+61
+S1039 Benjamin Tan
+Full Time
+Science
+77
+82
+79
+S1040 Puteri Balqis
+Part Time
+History
+41
+48
+45
+S1041 Harith Danial
+Full Time
+Computer Science
+88
+90
+87
+S1042 Michelle Ng
+Part Time
+Biology
+63
+67
+65
+S1043 Azlan Rosli
+Full Time
+Chemistry
+52
+58
+54
+S1044 Elaine Chu
+Part Time
+Physics
+80
+85
+82
+S1045 Faizal Hamid
+Full Time
+Geography
+49
+53
+50
+S1046 Crystal Yong
+Part Time
+Mathematics
+75
+81
+78
+S1047 Mohd Arif
+Full Time
+English
+61
+66
+63
+S1048 Irene Lau
+Part Time
+Science
+84
+88
+86
+S1049 Karthik Raj
+Full Time
+History
+37
+42
+39
+S1050 Sofia Ahmad
+Part Time
+Computer Science
+93
+98
+94
